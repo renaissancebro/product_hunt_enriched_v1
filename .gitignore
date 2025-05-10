@@ -1,0 +1,21 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter notebooks checkpoints (if any)
+.ipynb_checkpoints/
+
+# Mac system files (just in case)
+.DS_Store
+
+# VS Code / PyCharm / IDE configs (optional but clean)
+.vscode/
+.idea/
+
+# OS junk
+Thumbs.db
